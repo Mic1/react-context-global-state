@@ -1,4 +1,4 @@
-# Global State Management with Redux-Context
+# Global State Management with React-Context
 
 I need an example set to show whether global application state is practical using
 React hooks, using redux-toolkit as a control since it is acknowledged to handle global
